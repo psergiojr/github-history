@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="timeline.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="629.21807"
+     inkscape:cy="668.17053"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
+       id="rect22"
+       width="166.86139"
+       height="11.225321"
+       x="23.181269"
+       y="133.23495" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
+       id="path24"
+       sodipodi:sides="3"
+       sodipodi:cx="107.17509"
+       sodipodi:cy="207.46471"
+       sodipodi:r1="31.680174"
+       sodipodi:r2="15.840087"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:arg2="0.52359877"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 134.61092,191.62462 -13.71792,23.76013 -13.71791,23.76013 -13.717921,-23.76013 -13.717917,-23.76013 27.435838,0 z"
+       inkscape:transform-center-x="-4.0144507"
+       inkscape:transform-center-y="2.5412563e-06"
+       transform="rotate(-90,464.24718,-218.49174)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.399649"
+       y="38.817635"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="29.399649"
+         y="38.817635"
+         style="font-weight:bold;stroke-width:0.26458332">Fevereiro de 2008</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,142.09838,7.5595238)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot36"
+       xml:space="preserve"><flowRegion
+         id="flowRegion32"><rect
+           y="165.37683"
+           x="-428.57144"
+           height="785.71429"
+           width="482.85715"
+           id="rect30" /></flowRegion><flowPara
+         id="flowPara40">GitHub foi desenvolvido por Chris Wanstrath, PJ Hyett, Tom Preston-Werner e Scott Chacon usando Ruby on Rails</flowPara></flowRoot>  </g>
+</svg>
