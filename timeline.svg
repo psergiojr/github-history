@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1200mm"
+   width="1400mm"
    height="210mm"
-   viewBox="0 0 1200 210"
+   viewBox="0 0 1400 210"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="2764.3692"
-     inkscape:cy="346.01503"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="3401.2801"
+     inkscape:cy="296.88497"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,7 +78,7 @@
        d="m 134.61092,191.62462 -13.71792,23.76013 -13.71791,23.76013 -13.717921,-23.76013 -13.717917,-23.76013 27.435838,0 z"
        inkscape:transform-center-x="-4.0144507"
        inkscape:transform-center-y="2.5412563e-06"
-       transform="rotate(-90,747.53556,-501.78012)" />
+       transform="rotate(-90,949.57209,-703.81665)" />
     <flowRoot
        transform="matrix(0.19164943,0,0,0.19164943,109.3182,72.146495)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
@@ -281,5 +281,50 @@
        width="171.70897"
        id="rect689"
        style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal" />
+    <flowRoot
+       transform="matrix(0.19164943,0,0,0.19164943,949.38782,192.17792)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
+       id="flowRoot103"
+       xml:space="preserve"><flowRegion
+         id="flowRegion93"
+         style="stroke-width:1.38055885"><rect
+           y="110.84367"
+           x="811.42859"
+           height="676.02081"
+           width="973.94434"
+           id="rect91"
+           style="stroke-width:1.38055885" /></flowRegion><flowPara
+         style="font-weight:bold;stroke-width:1.38055885"
+         id="flowPara116">Janeiro de 2013:</flowPara><flowPara
+         style="stroke-width:1.38055885"
+         id="flowPara147" /><flowPara
+         style="stroke-width:1.38055885"
+         id="flowPara122">GitHub ultrapassa a marca dos 3 milhões de usuários e hospeda mais de 5 milhões de repositórios;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot140"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
+       transform="matrix(0.19164943,0,0,0.19164943,1075.0045,88.811931)"><flowRegion
+         style="stroke-width:1.38055885"
+         id="flowRegion126"><rect
+           style="stroke-width:1.38055885"
+           id="rect124"
+           width="973.94434"
+           height="676.02081"
+           x="811.42859"
+           y="110.84367" /></flowRegion><flowPara
+         id="flowPara136"
+         style="font-weight:bold;stroke-width:1.38055885">Dezembro de 2013:</flowPara><flowPara
+         style="stroke-width:1.38055885"
+         id="flowPara177" /><flowPara
+         style="stroke-width:1.38055885"
+         id="flowPara179">GitHub alcança 10 milhões de repositórios;</flowPara><flowPara
+         id="flowPara138"
+         style="stroke-width:1.38055885" /></flowRoot>    <rect
+       style="opacity:1;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
+       id="rect181"
+       width="314.43088"
+       height="8.1309977"
+       x="1087.9329"
+       y="176.86803" />
   </g>
 </svg>
