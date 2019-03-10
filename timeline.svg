@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1800mm"
+   width="2400mm"
    height="210mm"
-   viewBox="0 0 1800 210"
+   viewBox="0 0 2400 210"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="5123.0839"
-     inkscape:cy="279.71776"
+     inkscape:zoom="0.35"
+     inkscape:cx="7626.1748"
+     inkscape:cy="331.16578"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,12 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     width="800mm" />
+     width="800mm"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -63,7 +68,7 @@
        y="176.86803" />
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#00d0d0;fill-opacity:1;stroke:none;stroke-width:1.98856592;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
        id="path24"
        sodipodi:sides="3"
        sodipodi:cx="107.17509"
@@ -76,9 +81,8 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 134.61092,191.62462 -13.71792,23.76013 -13.71791,23.76013 -13.717921,-23.76013 -13.717917,-23.76013 27.435838,0 z"
-       inkscape:transform-center-x="-4.0144507"
-       inkscape:transform-center-y="2.5412563e-06"
-       transform="rotate(-90,1012.3161,-766.5607)" />
+       inkscape:transform-center-x="-2.0187381"
+       transform="matrix(0,-0.50287495,0.50287495,0,2226.0054,234.82915)" />
     <flowRoot
        transform="matrix(0.19164943,0,0,0.19164943,109.3182,72.146495)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
@@ -418,5 +422,68 @@
        width="32.235752"
        id="rect297"
        style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal" />
+    <flowRoot
+       transform="matrix(0.19164943,0,0,0.19164943,1702.0671,82.008364)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
+       id="flowRoot311"
+       xml:space="preserve"><flowRegion
+         id="flowRegion301"
+         style="stroke-width:1.38055885"><rect
+           y="110.84367"
+           x="811.42859"
+           height="676.02081"
+           width="973.94434"
+           id="rect299"
+           style="stroke-width:1.38055885" /></flowRegion><flowPara
+         style="font-weight:bold;stroke-width:1.38055885"
+         id="flowPara324">Fevereiro de 2018:</flowPara><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara341" /><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara334">GitHub sofre maior ataque de negação de serviço (DDoS) da história, com tráfego alcançando um pico de aproximadamente 1,35 terabits por segundo;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot365"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
+       transform="matrix(0.19164943,0,0,0.19164943,1804.4987,171.9667)"><flowRegion
+         style="stroke-width:1.38055885"
+         id="flowRegion347"><rect
+           style="stroke-width:1.38055885"
+           id="rect345"
+           width="973.94434"
+           height="676.02081"
+           x="811.42859"
+           y="110.84367" /></flowRegion><flowPara
+         id="flowPara357"
+         style="font-weight:bold;stroke-width:1.38055885">Junho de 2018:</flowPara><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara397" /><flowPara
+         id="flowPara363"
+         style="font-weight:normal;stroke-width:1.38055885">Microsoft anuncia que fechou um acordo para adquirir o GitHub por US$7.5 bilhões; GitHub expande seu programa GitHub Education, oferecendo bundles de ferramentas gratuitas para escolas;</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.19164943,0,0,0.19164943,1956.4452,88.055986)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38055885"
+       id="flowRoot417"
+       xml:space="preserve"><flowRegion
+         id="flowRegion403"
+         style="stroke-width:1.38055885"><rect
+           y="110.84367"
+           x="811.42859"
+           height="676.02081"
+           width="973.94434"
+           id="rect401"
+           style="stroke-width:1.38055885" /></flowRegion><flowPara
+         style="font-weight:bold;stroke-width:1.38055885"
+         id="flowPara413">Outubro de 2018:</flowPara><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara434" /><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara436">Microsoft completa aquisição do GitHub;</flowPara><flowPara
+         style="font-weight:normal;stroke-width:1.38055885"
+         id="flowPara415" /></flowRoot>    <rect
+       style="opacity:1;fill:#00d0d0;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:19.99999809;stroke-opacity:1;paint-order:normal"
+       id="rect438"
+       width="488.83099"
+       height="8.1309977"
+       x="1834.0669"
+       y="176.86803" />
   </g>
 </svg>
